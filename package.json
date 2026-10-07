@@ -12,3 +12,15 @@
     "vite": "^8.3.0"
   }
 }
+
+{
+  "scripts": {
+    ...
+  },
+  "dependencies": {
+    ...
+  },
+  "devDependencies": {
+    ...
+  }
+}
